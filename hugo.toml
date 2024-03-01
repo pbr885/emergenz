@@ -1,0 +1,9 @@
+baseURL = 'https://emergenz.cc/'
+theme = "PaperMod"
+languageCode = 'de'
+title = 'Emergenz.'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      footnote = true
