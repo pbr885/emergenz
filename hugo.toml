@@ -1,5 +1,6 @@
 baseURL = 'https://emergenz.cc/'
 theme = "PaperMod"
+
 languageCode = 'de'
 title = 'Emergenz.'
 
