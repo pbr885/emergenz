@@ -11,4 +11,5 @@ Worum wird es hier gehen?
 * Kompetenz
 .. und alles zwischendrin.
 
-Ich freue mich auf Anregungen, Austausch, vor allem aber Korrekturen. Die Geschichte kennen, das Jetzt akzeptieren, und die Zukunft gestalten.
+Ich freue mich auf Anregungen, Austausch, vor allem aber Korrekturen. 
+Die Geschichte kennen, das Jetzt akzeptieren, und die Zukunft gestalten.
