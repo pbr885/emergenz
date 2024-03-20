@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Home on Emergenz.</title>
+    <title>Patrick Riedl</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Emergenz.</description>
+    <description>Recent content on Patrick Riedl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 01 Mar 2024 11:12:43 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Anfang</title>
-      <link>http://localhost:1313/posts/welcome/</link>
-      <pubDate>Fri, 01 Mar 2024 11:12:43 +0100</pubDate>
-      <guid>http://localhost:1313/posts/welcome/</guid>
-      <description>Hesse wird überstrapaziert - der Zauber liegt nicht im Anfang sondern im konsequenten Weitermachen.
-Worum wird es hier gehen?
-Komplexität Kybernetik Kompetenz .. und alles zwischendrin. Ich freue mich auf Anregungen, Austausch, vor allem aber Korrekturen. Die Geschichte kennen, das Jetzt akzeptieren, und die Zukunft gestalten.</description>
-    </item>
   </channel>
 </rss>

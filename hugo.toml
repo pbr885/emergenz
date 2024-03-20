@@ -1,8 +1,8 @@
-baseURL = 'https://emergenz.cc/'
+baseURL = 'https://patrickriedl.de/'
 theme = 'PaperMod'
 
 languageCode = 'de'
-title = 'Emergenz.'
+title = 'Patrick Riedl'
 
 [markup]
   [markup.goldmark]
